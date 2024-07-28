@@ -48,6 +48,8 @@ This project is a web application for generating music, instrumentals, and rap l
 3. Click "Generate Instrumental".
 4. Wait for the instrumental to be generated. This process can take 3-4 minutes.
 5. The generated instrumental will be available for playback in the app.
+<img width="1512" alt="Screenshot 2024-07-27 at 11 54 14 PM" src="https://github.com/user-attachments/assets/323b406d-f5a7-40cd-8448-3a0558fbd67e">
+
 
 ### Lyrics Generation
 
@@ -55,6 +57,8 @@ This project is a web application for generating music, instrumentals, and rap l
 2. Enter the city you were born in.
 3. Click "Generate Lyrics".
 4. The generated rap name and lyrics will be displayed.
+<img width="1512" alt="Screenshot 2024-07-27 at 11 54 58 PM" src="https://github.com/user-attachments/assets/233a681a-ffb9-4ccf-9bea-4a932e50f046">
+
 
 ## File Structure
 
