@@ -1,0 +1,8 @@
+langchain
+streamlit
+gemini
+langchain-community
+transformers
+huggingface-hub
+python-dotenv
+scipy

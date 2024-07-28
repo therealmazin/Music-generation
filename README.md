@@ -1,1 +1,1 @@
-# Music-generation
+# Rap-Name-and-lyrics-Generator
