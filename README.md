@@ -38,6 +38,8 @@ This project is a web application for generating music, instrumentals, and rap l
 3. Click "Generate Music".
 4. Wait for the music to be generated. This process can take 3-4 minutes.
 5. The generated audio URLs will be displayed once the process is complete.
+![alt text][<img width="1512" alt="Screenshot 2024-07-27 at 9 23 24 PM" src="https://github.com/user-attachments/assets/1c458c01-0012-4684-a071-a80cd12bb187">
+]
 
 ### Instrumental Generation
 
