@@ -4,26 +4,6 @@ import langchain_temp
 from beat import instrumental_generation
 from rap import generate_audio_by_prompt, get_audio_information
 
-# st.title("Kerala Rap Name & Lyrics Generator")
-
-# city = st.sidebar.selectbox("Select a city",("Kozhikode","Alappuzha","Ernakulam","Thiruvananthapuram"))
-
-
-# def gen_rap_name_and_lyrics(city):
-#     return {
-#         'rap_name': 'Kozhi King',
-#         'rap_lyrics': "I am the kozhi and, I am fire and connot mess with me"
-#     }
-
-
-# if city :
-#     response = langchain_temp.gen_rap_name_and_lyrics(city)
-#     st.header(response["rap_name"].strip())
-#     rap_lyrics = response['lyrics'].strip().split("\n")
-#     st.write("Lyrics by",response["rap_name"])
-#     for lyric in rap_lyrics:
-#         st.write(lyric)
-
 
 
 
