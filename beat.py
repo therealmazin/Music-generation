@@ -14,7 +14,3 @@ def instrumental_generation(prompt):
     beats= text_to_beats(prompt, forward_params={"do_sample": True})
     wavfile.write("beat.wav", rate=beats["sampling_rate"], data=beats["audio"])
     return "beat.wav"
-
-# prompt_rap= "West Coast style hip hop beat with heavy 808 and drums"
-
-# music_generation(prompt_rap)
