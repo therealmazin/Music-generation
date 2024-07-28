@@ -2,7 +2,7 @@
 
 # Music, Instrumental, and Lyrics Generator
 
-This project is a web application for generating music, instrumentals, and rap lyrics. It uses various APIs and models to create content based on user input. The application is built with Streamlit, a Python library for creating interactive web apps.
+This project is a web application for generating music, instrumentals, and rap lyrics. It uses various APIs and models to create content based on user input. 
 
 ## Features
 
