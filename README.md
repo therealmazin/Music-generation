@@ -12,7 +12,7 @@ This project is a web application for generating music, instrumentals, and rap l
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/theralmazin/Music-generator.git
+   git clone https://github.com/therealmazin/Music-generator.git
    cd Music-generator
    ```
 
